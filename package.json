@@ -1,0 +1,23 @@
+{
+  "name": "clean-code",
+  "version": "1.0.0",
+  "description": "Clean Code documentation",
+  "main": "jsguide.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awafeek/clean-code.git"
+  },
+  "keywords": [
+    "clean",
+    "code"
+  ],
+  "author": "Wafeek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awafeek/clean-code/issues"
+  },
+  "homepage": "https://github.com/awafeek/clean-code#readme"
+}
